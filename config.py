@@ -29,6 +29,3 @@ class Config(object):
     # watermark file
     DEF_WATER_MARK_FILE = ""
     LOG_CHANNEL = "-1001658377071"
-    DATABASE_URL = "mongodb+srv://WWW:WWW@cluster0.k8pdwev.mongodb.net/?retryWrites=true&w=majority"
-    DATABASE_NAME = Cluster0
-    
